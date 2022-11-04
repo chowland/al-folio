@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: shape effects in melting flows
+description: Using the phase-field method to demistify the two-way coupling of melting and convection
+img: #assets/img/3.jpg
 importance: 2
-category: work
+redirect: '#'
+category: convection and phase changes
 ---
 
 Every project has a beautiful feature showcase page.

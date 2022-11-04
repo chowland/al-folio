@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: buoyancy at the pore scale
+description: Investigating Rayleigh-Taylor instability with the immersed boundary method
+img: assets/img/pore_RT.png
 importance: 1
-category: work
+redirect: '#'
+category: convection and phase changes
 ---
 
 Every project has a beautiful feature showcase page.

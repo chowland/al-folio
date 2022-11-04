@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: internal wave-driven ocean mixing
+description: What are the key breakdown mechanisms of internal waves driving mixing in the ocean?
+img: assets/img/IGW_breaking.png
 importance: 3
-category: fun
+redirect: '#'
+category: stratified flows
 ---
 
 Every project has a beautiful feature showcase page.

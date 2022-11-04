@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: stratified turbulence
+description: Investigating (non-)universal properties of turbulence in stratified environments
+img: assets/img/stratified_turbulence.png
 importance: 3
-category: fun
+redirect: '#'
+category: stratified flows
 ---
 
 Every project has a beautiful feature showcase page.

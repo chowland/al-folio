@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: nonlinear effects in shear instabilities
+description: Linear stability theory tells us about the initial growth of small perturbations. But what happens afterwards?
+img: assets/img/nonlinear_KH.png
 importance: 4
-category: fun
+redirect: '#'
+category: stratified flows
 ---
 
 Every project has a beautiful feature showcase page.

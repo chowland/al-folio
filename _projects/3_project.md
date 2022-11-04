@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: convection at ice-ocean interfaces
+description: How do the different diffusivities of heat and salt affect the submarine ablation of glaciers?
+img: assets/img/high_Pr_VC.png
+# redirect: https://unsplash.com
 importance: 3
-category: work
+redirect: '#'
+category: convection and phase changes
 ---
 
 Every project has a beautiful feature showcase page.

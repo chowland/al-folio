@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects I'm interested in. These are split into two broad categories based on topics I started during my PhD and topics I have worked on during my postdoc.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [convection and phase changes, stratified flows]
 horizontal: false
 ---
 
