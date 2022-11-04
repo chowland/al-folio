@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - chowland
 
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+my_repos:
+  - chowland/DIABLO3T
+  # - chowland/AFiD-MuRPhFi
+
+fav_repos:
+  - DedalusProject/dedalus
+  - FourierFlows/FourierFlows.jl
+  - CaNS-World/CaNS 
+  - CliMA/Oceananigans.jl
+  - matplotlib/cmocean

@@ -1,0 +1,34 @@
+- title: Teaching Assistant (University of Twente)
+  type: time_table
+  contents:
+    - title: Turbulence
+      year: 2021 -
+      description:
+        - Hosting working classes for assistance and feedback on assignment sheets
+        - Grading assignment sheets and final student presentations
+        - Guest lecture on 'Turbulence in the oceanic environment'
+
+- title: Undergraduate Supervisor (University of Cambridge)
+  type: time_table
+  contents:
+    - description:
+      - Small-scale solutions classes, tutoring students in pairs
+      - Awarded teaching prizes by Pembroke College for student feedback
+    - title: Fluid Dynamics
+      year: 2017 - 2020
+    - title: Quantum Mechanics
+      year: 2018 - 2019
+    - title: Mathematics for Natural Sciences
+      year: 2018 - 2019
+    - title: Variational Principles
+      year: 2016 - 2019
+    - title: Differential Equations
+      year: 2017 - 2018
+
+- title: Example Class Instructor (University of Cambridge)
+  type: time_table
+  contents:
+    - title: Hydrodynamic Stability
+      year: 2017 - 2018
+      description:
+        - Working through solutions for classes of 12 students

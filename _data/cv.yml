@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Christopher James Howland
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd June 1994
     - name: Languages
-      value: English, German
+      value: English (native), Dutch (CEFR Level B1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: DAMTP, University of Cambridge
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Thesis: Energetics and mixing in stratified turbulent flows"
+        - Performed idealised numerical simulations of stratified turbulent flows to improve the understanding of vertical scalar transport in the ocean interior.
+        - title: Presented work at national and international conferences including
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - APS Division of Fluid Dynamics Annual Meeting;
+            - AGU Ocean Sciences Meeting;
+            - European Turbulence Conference.
+        - Contributed to the development of Diablo DNS code, including expanded HDF5 integration and Python post-processing scripts.
+        - Awarded teaching prizes from Pembroke College for excellent student feedback.
+    - title: MMath
+      institution: Mathematical Institute, University of Oxford
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: Modelling Turbulent Flow Using Large Eddy Simulation"
+        - Double First Class Honours.
+        - IMA Prize for Third Year Exams.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Physics of Fluids Group, University of Twente
+      year: 2020 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Using high resolution numerical simulations to study the effect of turbulent convection at ice-water interfaces.
+        - Implemented a new phase-field model coupled to a multiple-resolution method for efficient simulation of melting objects in flow.
+        - Adapted immersed boundary method for pore-scale simulations of buoyancy-driven flows.
+        - Obtained 30 million CPU hours of computational time for the Physics of Fluids group on the Dutch national supercomputer.
+
+    - title: GFD Fellow
+      institution: Woods Hole Oceanographic Institution
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Performed laboratory experiments and image analysis during a seven week research project on turbulent plumes in rotating environments.
+        - Selected for one of 10 fully funded fellowships.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Research Intern
+      institution: University of Oxford
+      year: 2015
       description:
+        - Performed experiments using a high speed camera to investigate the dynamics of liquid drops impacting soft solid surfaces.
+        - Awarded funding from UK Research Council EPSRC for the project.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Convection and phase changes
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Buoyancy at the pore scale
+        - Shape effects in melting flows
+        - Convection at ice-ocean interfaces
+    - title: Stratified flows
       items:
-        - Description 1.
-        - Description 2.
+        - Internal wave-driven ocean mixing
+        - Stratified turbulence
+        - Nonlinear effects in shear instabilities
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
