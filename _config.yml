@@ -112,8 +112,10 @@ contact_note: #>
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: TE9KoI_OkMh9g_yvlWjDclODASmAi3NpZzk-WF3RTfw # your google-site-verification ID (Google Search Console)
-bing_site_verification: 46CF6C2C1A140128834037940FC66B26 # out your bing-site-verification ID (Bing Webmaster)
+# google_site_verification: TE9KoI_OkMh9g_yvlWjDclODASmAi3NpZzk-WF3RTfw # your google-site-verification ID (Google Search Console)
+# bing_site_verification: 46CF6C2C1A140128834037940FC66B26 # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: QzNVE7-nxX_rqc56UpwwOfJ1eYtZNjhqF933QPpN6xQ  # your google-site-verification ID (Google Search Console)
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
