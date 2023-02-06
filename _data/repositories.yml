@@ -3,11 +3,14 @@ github_users:
 
 my_repos:
   - chowland/DIABLO3T
+  - chowland/HaloPencils.jl
   # - chowland/AFiD-MuRPhFi
 
 fav_repos:
   - DedalusProject/dedalus
   - FourierFlows/FourierFlows.jl
+  - NVIDIA/cuDecomp
+  - jipolanco/PencilFFTs.jl
   - CaNS-World/CaNS 
   - CliMA/Oceananigans.jl
   - matplotlib/cmocean
