@@ -2,7 +2,7 @@
 layout: page
 title: shape effects in melting flows
 description: Using the phase-field method to demistify the two-way coupling of melting and convection
-img: #assets/img/3.jpg
+img: assets/img/3d_melt_RBC.png
 importance: 2
 redirect: '#'
 category: convection and phase changes
