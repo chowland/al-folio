@@ -2,9 +2,10 @@ github_users:
   - chowland
 
 my_repos:
+  - chowland/AFiD-MuRPhFi
   - chowland/DIABLO3T
   - chowland/HaloPencils.jl
-  # - chowland/AFiD-MuRPhFi
+  
 
 fav_repos:
   - DedalusProject/dedalus

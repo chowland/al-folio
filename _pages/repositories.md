@@ -6,7 +6,7 @@ description: An overview of the software I work on, and some of my favourite ope
 nav: true
 nav_order: 3
 ---
-
+<!-- 
 **Watch this space!**
 I am working on an open-source release for my current simulation code.
 `AFiD-MuRPhFi` is a sizeable extension to the second-order finite difference solver [`AFiD`](https://github.com/PhysicsOfFluids/AFiD), which includes
@@ -16,7 +16,7 @@ I am working on an open-source release for my current simulation code.
 
 `MuRPhFi` is an acronym for 'Multiple Resolution Phase-Field'.
 If you would like early access to the code, just let me know by [sending me an email](mailto:c.j.howland@utwente.nl).
-And if you're just curious, then please check out the (in progress) [documentation](https://chowland.github.io/AFiD-MuRPhFi).
+And if you're just curious, then please check out the (in progress) [documentation](https://chowland.github.io/AFiD-MuRPhFi). -->
 
 ## GitHub users
 
