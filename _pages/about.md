@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a fluid dynamicist interested in the fundamental physics at the heart of various environmental and geophysical flows.
-I use idealised numerical simulations to investigate the role of buoyancy and turbulence on processes in the natural environment.
+I use idealised numerical simulations to investigate the roles of buoyancy, phase changes and turbulence on processes in the natural environment.
 
 High performance computing is a vital tool for my research, which also makes me interested in advanced numerical methods and how to deploy them at scale.
 I have contributed to the development of a number of flow simulation software codes using both pseudospectral and finite difference methods, some of which you can find at the [repositories](/repositories) page.
