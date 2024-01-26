@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Here you can find all my peer-reviewed publications, preprints, theses and other reports. If there are any documents here that you cannot access, please get in touch and I would be happy to send you a copy.
-years: [2023, 2022, 2021, 2020, 2018, 2016]
+years: [2024, 2023, 2022, 2021, 2020, 2018, 2016]
 nav: true
 nav_order: 1
 ---
